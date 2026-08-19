@@ -1,0 +1,8 @@
+faster-whisper
+transformers
+torch
+sentencepiece
+webrtcvad-wheels
+numpy
+PyAudioWPatch
+keyboard
