@@ -6,6 +6,27 @@
 > **15 Languages, Any-to-Any Translation, Fully Offline, Zero API Cost**
 
 ---
+## 快速开始 | Quick Start
+
+```bash
+# 1. 克隆仓库
+git clone https://github.com/你的用户名/你的仓库名.git
+cd 你的仓库名
+
+# 2. 安装 Python 依赖
+pip install -r requirements-local.txt
+
+# 3. 下载 Piper 语音合成引擎
+# 从 https://github.com/rhasspy/piper/releases 下载 piper_windows_amd64.zip
+# 解压到 piper/ 目录
+
+# 4. 下载语音模型
+# 见 README 第5节，下载需要的语言模型到 voices/ 目录
+
+# 5. 运行
+python main_local.py --target ru --mode both
+# 或 GUI 模式
+python gui.py
 
 ## 目录 | Table of Contents
 
