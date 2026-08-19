@@ -28,6 +28,8 @@ python main_local.py --target ru --mode both
 # 或 GUI 模式
 python gui.py
 
+---
+
 ## 目录 | Table of Contents
 
 1. [功能特性 | Features](#1-功能特性--features)
