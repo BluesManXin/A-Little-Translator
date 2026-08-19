@@ -8,7 +8,6 @@
 ---
 ## 快速开始 | Quick Start
 
-```bash
 # 1. 克隆仓库
 git clone https://github.com/你的用户名/你的仓库名.git
 cd 你的仓库名
@@ -27,8 +26,6 @@ pip install -r requirements-local.txt
 python main_local.py --target ru --mode both
 # 或 GUI 模式
 python gui.py
-
----
 
 ## 目录 | Table of Contents
 
